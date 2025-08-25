@@ -240,6 +240,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1206759889979604124, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1258583810, guid: a7f795a5044b947aa81a57a339319526, type: 3}
+    - target: {fileID: 1206759889979604124, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_FillAmount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4809049570350009265, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4809049570350009265, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6961383762580781924, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7727502761469199770, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.17715275
@@ -283,6 +303,10 @@ PrefabInstance:
     - target: {fileID: 7804234909361922938, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
       propertyPath: m_Name
       value: Tank 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8317421799859928293, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.009899974
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -566,9 +590,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1206759889979604124, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 427261503, guid: 48fcaefda3f60410aac1f3b904885b45, type: 3}
+    - target: {fileID: 1206759889979604124, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_FillAmount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4809049570350009265, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4809049570350009265, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5740072069036522494, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
       propertyPath: m_PlayerNumber
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6961383762580781924, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7727502761469199770, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -613,6 +657,10 @@ PrefabInstance:
     - target: {fileID: 7804234909361922938, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
       propertyPath: m_Name
       value: Tank 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8317421799859928293, guid: 1014869326a0a40a8af2771b26b1836b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.009899974
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
